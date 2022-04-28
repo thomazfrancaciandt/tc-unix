@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /root
-
+ls -l /home/thomazf/tc-unix/shell_basics
